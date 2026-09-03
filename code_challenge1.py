@@ -1,0 +1,2 @@
+diamond= "\t\t\t\t\t\t\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\n\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\n \t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t*\t\t\t\t My Name is\t\t\t\t\t*\n \t\t\t\t\t\t\t\t\t\t \\ \"Nicholai Red Aldea\"\\ \n \t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\n \t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\n \t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\n \t\t\t\t\t\t\t\t\t\t\t\t*"
+print(diamond)
